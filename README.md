@@ -17,4 +17,4 @@
 - DBMS (SQL Basics)
 
 ## 📫 Contact
-- Email: nikitanunavath9@gmail.com
+- Email id:nikithanunavath9@gmail.com
