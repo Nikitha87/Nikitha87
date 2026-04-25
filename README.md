@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Nikitha 👋
 
-<!--
-**Nikitha87/Nikitha87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Graduate (MPCS)  
+💻 Aspiring Software Developer  
+🐍 Skilled in Python  
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🛒 Supermarket Billing System (Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python Projects
+- Web Development Basics
+- DBMS (Creating Tables, Inserting, Updating, Deleting Data)
+
+## 🛠️ Skills
+- Python
+- DBMS (SQL Basics)
+
+## 📫 Contact
+- Email: your email here
